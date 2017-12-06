@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Git.Version.Demo.Cmd", "Git
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Git.Version.Demo.Important", "Git.Version.Demo.Important\Git.Version.Demo.Important.csproj", "{C1283B07-C5BA-4A01-A193-35F0C7597114}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Git.Version.Demo.LegacyLib", "Git.Version.Demo.LegacyLib\Git.Version.Demo.LegacyLib.csproj", "{4F8543A3-22A7-47E5-BD3F-B4332C5E6A05}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C1283B07-C5BA-4A01-A193-35F0C7597114}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1283B07-C5BA-4A01-A193-35F0C7597114}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1283B07-C5BA-4A01-A193-35F0C7597114}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F8543A3-22A7-47E5-BD3F-B4332C5E6A05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F8543A3-22A7-47E5-BD3F-B4332C5E6A05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F8543A3-22A7-47E5-BD3F-B4332C5E6A05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F8543A3-22A7-47E5-BD3F-B4332C5E6A05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
