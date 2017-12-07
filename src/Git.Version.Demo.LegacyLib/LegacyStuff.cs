@@ -2,6 +2,6 @@
 {
     public class LegacyStuff
     {
-        public bool IsOld { get; set; }
+        public bool IsOld => true;
     }
 }
